@@ -4,6 +4,15 @@ Boyunuz:195,Kilonuz:85,VKI'nız:22
 Merhaba YİĞİT ŞANLI,
 Boyunuz:170,Kilonuz:60,VKI'nız:20
 
-Merhaba Miray,
-Boyunuz:170,Kilonuz:60,VKI'nız:20
+Merhaba Maryam Manaflı,
+Boyunuz:160,Kilonuz:48,VKI'nız:18
+
+Merhaba Maryam Manaflı,
+Boyunuz:160,Kilonuz:55,VKI'nız:21
+
+Merhaba RECEP,
+Boyunuz:195,Kilonuz:85,VKI'nız:22
+
+Merhaba Nisa,
+Boyunuz:152,Kilonuz:50,VKI'nız:21
 
