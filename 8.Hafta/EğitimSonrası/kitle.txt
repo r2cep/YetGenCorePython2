@@ -16,3 +16,6 @@ Boyunuz:195,Kilonuz:85,VKI'nız:22
 Merhaba Nisa,
 Boyunuz:152,Kilonuz:50,VKI'nız:21
 
+Merhaba Murat,
+Boyunuz:180,Kilonuz:85,VKI'nız:26
+
